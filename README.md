@@ -29,4 +29,5 @@ Little-Lemon is a static website hosted by Django web framework which its primar
 When the resevations are done and submitted by a client, all records filled by the client is received at the backend which is store on the database system called sqLite.
 
 
-PROJECT BY: MOKWENYE KENECHUKWU KELAN
+
+# PROJECT BY: MOKWENYE KENECHUKWU KELAN #
