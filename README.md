@@ -27,3 +27,6 @@ The app level which is "myapp" consist of mostly of the configuration part of li
 # Aims and Objectives Of Little-Lemon Website #
 Little-Lemon is a static website hosted by Django web framework which its primary aim was created to be a restaurant website with good interface for showcasing menu food items with price and after that the client making reservation or ordering food by filling a form at the book page.
 When the resevations are done and submitted by a client, all records filled by the client is received at the backend which is store on the database system called sqLite.
+
+
+PROJECT BY: MOKWENYE KENECHUKWU KELAN
