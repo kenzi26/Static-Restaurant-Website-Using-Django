@@ -22,6 +22,7 @@ Little-Lemon is hosted with Django web framework with sqlite as the database man
 The backend side of the website consist of the "myapp and myproject". 
 The "myproject" mainly features consist of (setting.py and url.py).
 The app level which is "myapp" consist of mostly of the configuration part of little-lemon such as (models.py, views.py, form.py and thats also the folder templates of the frontend is located)
+All the backend coding, design and url and settings configurations were fully done by myself.
 
 
 # Aims and Objectives Of Little-Lemon Website #
