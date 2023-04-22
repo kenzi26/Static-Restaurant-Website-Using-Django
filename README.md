@@ -1,6 +1,6 @@
-## A Fully fuctional static client-based restaurant website written with Python as the backend programming language and frontend as templates written with HTML and CSS ##
+## A FULLY FUCTIONAL STATIC CLIENT-BASED RESTAURANT WEBSITE WRITTEN WITH PYTHON AS THE BACKEND PROGRAMMING LANGUAGE AND FRONTEND DESIGN AS TEMPLATES WRITTEN WITH HTML AND CSS ##  
 
-# Frontend Design #
+# FRONTEND DESIGN #
 This Project is called Little-Lemon, it was a final assesement project on coursera sponsored by META Senior Web Developers. 
 This project consist of Frontend design which is as the form of templates named (home.html, menu.html, book.html, menu-items.html).
 Frontend design was done by META Senior developers and myself. A brief description of how the frontend of Little-Lemon shows as follows:
@@ -15,7 +15,7 @@ Frontend design was done by META Senior developers and myself. A brief descripti
 * book.html: known as reservation form, it's primary aim is for clients to make reservations when they want to come over to the restaurant on a date or something else. 
 This form consist of first and last name, no of guest expected, comment section and a submit button.
 
-# Backend Design #
+# BACKEND DESIGN #
 The backend side of Little-Lemon website was designed using Python language. 
 With this since Django is a python-based framework.
 Little-Lemon is hosted with Django web framework with sqlite as the database management system. 
@@ -25,7 +25,7 @@ The app level which is "myapp" consist of mostly of the configuration part of li
 All the backend coding, design and url and settings configurations were fully done by myself.
 
 
-# Aims and Objectives Of Little-Lemon Website #
+# AIMS AND OBJECTIVES OF LITTLE-LEMON WEBSITE # 
 Little-Lemon is a static website hosted by Django web framework which its primary aim was created to be a restaurant website with good interface for showcasing menu food items with price and after that the client making reservation or ordering food by filling a form at the book page.
 When the resevations are done and submitted by a client, all records filled by the client is received at the backend which is store on the database system called sqLite.
 
